@@ -5,7 +5,7 @@ import { SignUp } from "./components/signup";
 function App() {
   return (
     <div className="App">
-      Hola mundo
+      Hola <span>mundo</span>
       <SignUp />
     </div>
   );
